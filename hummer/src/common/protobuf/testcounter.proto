@@ -1,0 +1,10 @@
+
+package hummer;
+
+message testcounter
+{
+	required uint32 counter = 1;
+} 
+
+
+

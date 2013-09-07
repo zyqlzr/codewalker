@@ -1,0 +1,64 @@
+
+package hummer;
+
+message split
+{
+	optional int32 type = 1;
+	optional string sId = 2;
+	optional string sValue = 3;
+}
+
+message statistic
+{
+	optional uint64 msgTotal = 1;
+	optional uint64 msgErr = 2;
+	optional uint64 msgOk = 3;
+}
+
+message taskHB
+{
+	required uint32 taskId = 1;
+	required uint32 jobId = 2;
+	required string serverDes = 3;
+	required uint32 business = 4;
+	required uint32 status = 5;
+	optional statistic stat = 6;
+	repeated split splits = 7;
+}
+
+message task
+{
+	required uint64 taskId = 1;
+	required uint32 taskType = 2;
+	required uint64 jobId = 3;
+	optional uint32 business = 5;
+	optional string serverDes = 6;
+	optional string slot = 7;
+	repeated string srcDes = 8;
+	repeated string dstDes = 9;
+	repeated split splits = 10;
+}
+
+message assignment
+{
+	optional uint64 tid = 1;
+	optional string split = 2;
+	optional bool finiFlag = 3;	
+}
+
+message job
+{
+	required string jobDes = 1;
+	required uint64 jobId = 2;
+	required uint32 jobType = 3;
+	required uint32 jobStatus = 4;
+	optional uint32 business = 5;
+	optional uint32 cpucore = 6;
+	repeated string srcDes = 7;
+	repeated string dstDes = 8;
+	repeated split splits = 9;
+	repeated assignment assigns = 10;
+}
+
+
+

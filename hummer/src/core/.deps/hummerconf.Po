@@ -1,0 +1,511 @@
+hummerconf.o: hummerconf.cpp hummerconf.hpp \
+ ../../src/common/util/xmlwrapper.hpp ../../include/libxml/parser.h \
+ /home/zhengyang/zy/lib/gcc/x86_64-unknown-linux-gnu/4.8.1/include/stdarg.h \
+ ../../include/libxml/xmlversion.h ../../include/libxml/xmlexports.h \
+ ../../include/libxml/tree.h /usr/include/stdio.h /usr/include/features.h \
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h \
+ /home/zhengyang/zy/lib/gcc/x86_64-unknown-linux-gnu/4.8.1/include/stddef.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/bits/stdio.h ../../include/libxml/xmlstring.h \
+ ../../include/libxml/xmlregexp.h ../../include/libxml/dict.h \
+ ../../include/libxml/hash.h ../../include/libxml/parser.h \
+ ../../include/libxml/valid.h ../../include/libxml/xmlerror.h \
+ ../../include/libxml/list.h ../../include/libxml/xmlautomata.h \
+ ../../include/libxml/entities.h ../../include/libxml/encoding.h \
+ /usr/include/iconv.h ../../include/libxml/xmlIO.h \
+ ../../include/libxml/globals.h ../../include/libxml/SAX.h \
+ /usr/include/stdlib.h /usr/include/bits/waitflags.h \
+ /usr/include/bits/waitstatus.h /usr/include/endian.h \
+ /usr/include/bits/endian.h /usr/include/bits/byteswap.h \
+ /usr/include/xlocale.h /usr/include/sys/types.h /usr/include/time.h \
+ /usr/include/sys/select.h /usr/include/bits/select.h \
+ /usr/include/bits/sigset.h /usr/include/bits/time.h \
+ /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h \
+ /usr/include/alloca.h ../../include/libxml/xlink.h \
+ ../../include/libxml/SAX2.h ../../include/libxml/xmlmemory.h \
+ ../../include/libxml/threads.h \
+ /home/zhengyang/zy/include/c++/4.8.1/string \
+ /home/zhengyang/zy/include/c++/4.8.1/x86_64-unknown-linux-gnu/bits/c++config.h \
+ /home/zhengyang/zy/include/c++/4.8.1/x86_64-unknown-linux-gnu/bits/os_defines.h \
+ /home/zhengyang/zy/include/c++/4.8.1/x86_64-unknown-linux-gnu/bits/cpu_defines.h \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/stringfwd.h \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/memoryfwd.h \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/char_traits.h \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/stl_algobase.h \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/functexcept.h \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/exception_defines.h \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/cpp_type_traits.h \
+ /home/zhengyang/zy/include/c++/4.8.1/ext/type_traits.h \
+ /home/zhengyang/zy/include/c++/4.8.1/ext/numeric_traits.h \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/stl_pair.h \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/move.h \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/concept_check.h \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/stl_iterator_base_types.h \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/stl_iterator_base_funcs.h \
+ /home/zhengyang/zy/include/c++/4.8.1/debug/debug.h \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/stl_iterator.h \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/postypes.h \
+ /home/zhengyang/zy/include/c++/4.8.1/cwchar /usr/include/bits/wchar.h \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/allocator.h \
+ /home/zhengyang/zy/include/c++/4.8.1/x86_64-unknown-linux-gnu/bits/c++allocator.h \
+ /home/zhengyang/zy/include/c++/4.8.1/ext/new_allocator.h \
+ /home/zhengyang/zy/include/c++/4.8.1/new \
+ /home/zhengyang/zy/include/c++/4.8.1/exception \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/atomic_lockfree_defines.h \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/localefwd.h \
+ /home/zhengyang/zy/include/c++/4.8.1/x86_64-unknown-linux-gnu/bits/c++locale.h \
+ /home/zhengyang/zy/include/c++/4.8.1/clocale /usr/include/locale.h \
+ /usr/include/bits/locale.h /home/zhengyang/zy/include/c++/4.8.1/iosfwd \
+ /home/zhengyang/zy/include/c++/4.8.1/cctype /usr/include/ctype.h \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/ostream_insert.h \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/cxxabi_forced.h \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/stl_function.h \
+ /home/zhengyang/zy/include/c++/4.8.1/backward/binders.h \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/range_access.h \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/basic_string.h \
+ /home/zhengyang/zy/include/c++/4.8.1/ext/atomicity.h \
+ /home/zhengyang/zy/include/c++/4.8.1/x86_64-unknown-linux-gnu/bits/gthr.h \
+ /home/zhengyang/zy/include/c++/4.8.1/x86_64-unknown-linux-gnu/bits/gthr-default.h \
+ /usr/include/pthread.h /usr/include/sched.h /usr/include/bits/sched.h \
+ /usr/include/bits/setjmp.h \
+ /home/zhengyang/zy/include/c++/4.8.1/x86_64-unknown-linux-gnu/bits/atomic_word.h \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/basic_string.tcc \
+ /home/zhengyang/zy/include/c++/4.8.1/map \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/stl_tree.h \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/stl_map.h \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/stl_multimap.h \
+ ../../src/common/pubsub/topic_def.hpp \
+ /home/zhengyang/zy/lib/gcc/x86_64-unknown-linux-gnu/4.8.1/include/stdint.h \
+ /usr/include/stdint.h /usr/include/string.h \
+ ../../src/common/log/Logger.h \
+ /home/zhengyang/zy/include/c++/4.8.1/iostream \
+ /home/zhengyang/zy/include/c++/4.8.1/ostream \
+ /home/zhengyang/zy/include/c++/4.8.1/ios \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/ios_base.h \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/locale_classes.h \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/locale_classes.tcc \
+ /home/zhengyang/zy/include/c++/4.8.1/streambuf \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/streambuf.tcc \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/basic_ios.h \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/locale_facets.h \
+ /home/zhengyang/zy/include/c++/4.8.1/cwctype /usr/include/wctype.h \
+ /home/zhengyang/zy/include/c++/4.8.1/x86_64-unknown-linux-gnu/bits/ctype_base.h \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/streambuf_iterator.h \
+ /home/zhengyang/zy/include/c++/4.8.1/x86_64-unknown-linux-gnu/bits/ctype_inline.h \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/locale_facets.tcc \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/basic_ios.tcc \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/ostream.tcc \
+ /home/zhengyang/zy/include/c++/4.8.1/istream \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/istream.tcc \
+ ../../include/log4cxx/logger.h \
+ ../../include/log4cxx/helpers/appenderattachableimpl.h \
+ ../../include/log4cxx/spi/appenderattachable.h \
+ ../../include/log4cxx/logstring.h ../../include/log4cxx/log4cxx.h \
+ ../../include/log4cxx/helpers/transcoder.h \
+ /home/zhengyang/zy/include/c++/4.8.1/vector \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/stl_construct.h \
+ /home/zhengyang/zy/include/c++/4.8.1/ext/alloc_traits.h \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/stl_uninitialized.h \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/stl_vector.h \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/stl_bvector.h \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/vector.tcc \
+ ../../include/log4cxx/helpers/objectptr.h \
+ ../../include/log4cxx/helpers/object.h \
+ ../../include/log4cxx/helpers/class.h \
+ ../../include/log4cxx/helpers/classregistration.h \
+ ../../include/log4cxx/appender.h \
+ ../../include/log4cxx/spi/optionhandler.h \
+ ../../include/log4cxx/helpers/objectimpl.h \
+ ../../include/log4cxx/helpers/mutex.h \
+ ../../include/log4cxx/helpers/pool.h ../../include/log4cxx/level.h \
+ /home/zhengyang/zy/lib/gcc/x86_64-unknown-linux-gnu/4.8.1/include-fixed/limits.h \
+ /home/zhengyang/zy/lib/gcc/x86_64-unknown-linux-gnu/4.8.1/include-fixed/syslimits.h \
+ /usr/include/limits.h /usr/include/bits/posix1_lim.h \
+ /usr/include/bits/local_lim.h /usr/include/linux/limits.h \
+ /usr/include/bits/posix2_lim.h /usr/include/bits/xopen_lim.h \
+ ../../include/log4cxx/spi/location/locationinfo.h \
+ ../../include/log4cxx/helpers/objectoutputstream.h \
+ ../../include/log4cxx/mdc.h ../../include/log4cxx/helpers/outputstream.h \
+ ../../include/log4cxx/helpers/charsetencoder.h \
+ ../../include/log4cxx/helpers/resourcebundle.h \
+ ../../include/log4cxx/helpers/messagebuffer.h \
+ /home/zhengyang/zy/include/c++/4.8.1/sstream \
+ /home/zhengyang/zy/include/c++/4.8.1/bits/sstream.tcc \
+ ../../include/log4cxx/spi/loggerrepository.h \
+ ../../include/log4cxx/spi/loggerfactory.h ../../include/log4cxx/logger.h \
+ ../../include/log4cxx/spi/hierarchyeventlistener.h \
+ ../../include/log4cxx/propertyconfigurator.h \
+ ../../include/log4cxx/spi/configurator.h ../../include/log4cxx/file.h
+
+hummerconf.hpp:
+
+../../src/common/util/xmlwrapper.hpp:
+
+../../include/libxml/parser.h:
+
+/home/zhengyang/zy/lib/gcc/x86_64-unknown-linux-gnu/4.8.1/include/stdarg.h:
+
+../../include/libxml/xmlversion.h:
+
+../../include/libxml/xmlexports.h:
+
+../../include/libxml/tree.h:
+
+/usr/include/stdio.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/home/zhengyang/zy/lib/gcc/x86_64-unknown-linux-gnu/4.8.1/include/stddef.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/usr/include/bits/stdio_lim.h:
+
+/usr/include/bits/sys_errlist.h:
+
+/usr/include/bits/stdio.h:
+
+../../include/libxml/xmlstring.h:
+
+../../include/libxml/xmlregexp.h:
+
+../../include/libxml/dict.h:
+
+../../include/libxml/hash.h:
+
+../../include/libxml/parser.h:
+
+../../include/libxml/valid.h:
+
+../../include/libxml/xmlerror.h:
+
+../../include/libxml/list.h:
+
+../../include/libxml/xmlautomata.h:
+
+../../include/libxml/entities.h:
+
+../../include/libxml/encoding.h:
+
+/usr/include/iconv.h:
+
+../../include/libxml/xmlIO.h:
+
+../../include/libxml/globals.h:
+
+../../include/libxml/SAX.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/bits/waitflags.h:
+
+/usr/include/bits/waitstatus.h:
+
+/usr/include/endian.h:
+
+/usr/include/bits/endian.h:
+
+/usr/include/bits/byteswap.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/time.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/bits/select.h:
+
+/usr/include/bits/sigset.h:
+
+/usr/include/bits/time.h:
+
+/usr/include/sys/sysmacros.h:
+
+/usr/include/bits/pthreadtypes.h:
+
+/usr/include/alloca.h:
+
+../../include/libxml/xlink.h:
+
+../../include/libxml/SAX2.h:
+
+../../include/libxml/xmlmemory.h:
+
+../../include/libxml/threads.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/string:
+
+/home/zhengyang/zy/include/c++/4.8.1/x86_64-unknown-linux-gnu/bits/c++config.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/x86_64-unknown-linux-gnu/bits/os_defines.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/x86_64-unknown-linux-gnu/bits/cpu_defines.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/stringfwd.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/memoryfwd.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/char_traits.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/stl_algobase.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/functexcept.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/exception_defines.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/cpp_type_traits.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/ext/type_traits.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/ext/numeric_traits.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/stl_pair.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/move.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/concept_check.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/stl_iterator_base_types.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/stl_iterator_base_funcs.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/debug/debug.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/stl_iterator.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/postypes.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/cwchar:
+
+/usr/include/bits/wchar.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/allocator.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/x86_64-unknown-linux-gnu/bits/c++allocator.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/ext/new_allocator.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/new:
+
+/home/zhengyang/zy/include/c++/4.8.1/exception:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/atomic_lockfree_defines.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/localefwd.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/x86_64-unknown-linux-gnu/bits/c++locale.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/clocale:
+
+/usr/include/locale.h:
+
+/usr/include/bits/locale.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/iosfwd:
+
+/home/zhengyang/zy/include/c++/4.8.1/cctype:
+
+/usr/include/ctype.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/ostream_insert.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/cxxabi_forced.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/stl_function.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/backward/binders.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/range_access.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/basic_string.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/ext/atomicity.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/x86_64-unknown-linux-gnu/bits/gthr.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/x86_64-unknown-linux-gnu/bits/gthr-default.h:
+
+/usr/include/pthread.h:
+
+/usr/include/sched.h:
+
+/usr/include/bits/sched.h:
+
+/usr/include/bits/setjmp.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/x86_64-unknown-linux-gnu/bits/atomic_word.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/basic_string.tcc:
+
+/home/zhengyang/zy/include/c++/4.8.1/map:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/stl_tree.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/stl_map.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/stl_multimap.h:
+
+../../src/common/pubsub/topic_def.hpp:
+
+/home/zhengyang/zy/lib/gcc/x86_64-unknown-linux-gnu/4.8.1/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/string.h:
+
+../../src/common/log/Logger.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/iostream:
+
+/home/zhengyang/zy/include/c++/4.8.1/ostream:
+
+/home/zhengyang/zy/include/c++/4.8.1/ios:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/ios_base.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/locale_classes.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/locale_classes.tcc:
+
+/home/zhengyang/zy/include/c++/4.8.1/streambuf:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/streambuf.tcc:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/basic_ios.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/locale_facets.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/cwctype:
+
+/usr/include/wctype.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/x86_64-unknown-linux-gnu/bits/ctype_base.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/streambuf_iterator.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/x86_64-unknown-linux-gnu/bits/ctype_inline.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/locale_facets.tcc:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/basic_ios.tcc:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/ostream.tcc:
+
+/home/zhengyang/zy/include/c++/4.8.1/istream:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/istream.tcc:
+
+../../include/log4cxx/logger.h:
+
+../../include/log4cxx/helpers/appenderattachableimpl.h:
+
+../../include/log4cxx/spi/appenderattachable.h:
+
+../../include/log4cxx/logstring.h:
+
+../../include/log4cxx/log4cxx.h:
+
+../../include/log4cxx/helpers/transcoder.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/vector:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/stl_construct.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/ext/alloc_traits.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/stl_uninitialized.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/stl_vector.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/stl_bvector.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/vector.tcc:
+
+../../include/log4cxx/helpers/objectptr.h:
+
+../../include/log4cxx/helpers/object.h:
+
+../../include/log4cxx/helpers/class.h:
+
+../../include/log4cxx/helpers/classregistration.h:
+
+../../include/log4cxx/appender.h:
+
+../../include/log4cxx/spi/optionhandler.h:
+
+../../include/log4cxx/helpers/objectimpl.h:
+
+../../include/log4cxx/helpers/mutex.h:
+
+../../include/log4cxx/helpers/pool.h:
+
+../../include/log4cxx/level.h:
+
+/home/zhengyang/zy/lib/gcc/x86_64-unknown-linux-gnu/4.8.1/include-fixed/limits.h:
+
+/home/zhengyang/zy/lib/gcc/x86_64-unknown-linux-gnu/4.8.1/include-fixed/syslimits.h:
+
+/usr/include/limits.h:
+
+/usr/include/bits/posix1_lim.h:
+
+/usr/include/bits/local_lim.h:
+
+/usr/include/linux/limits.h:
+
+/usr/include/bits/posix2_lim.h:
+
+/usr/include/bits/xopen_lim.h:
+
+../../include/log4cxx/spi/location/locationinfo.h:
+
+../../include/log4cxx/helpers/objectoutputstream.h:
+
+../../include/log4cxx/mdc.h:
+
+../../include/log4cxx/helpers/outputstream.h:
+
+../../include/log4cxx/helpers/charsetencoder.h:
+
+../../include/log4cxx/helpers/resourcebundle.h:
+
+../../include/log4cxx/helpers/messagebuffer.h:
+
+/home/zhengyang/zy/include/c++/4.8.1/sstream:
+
+/home/zhengyang/zy/include/c++/4.8.1/bits/sstream.tcc:
+
+../../include/log4cxx/spi/loggerrepository.h:
+
+../../include/log4cxx/spi/loggerfactory.h:
+
+../../include/log4cxx/logger.h:
+
+../../include/log4cxx/spi/hierarchyeventlistener.h:
+
+../../include/log4cxx/propertyconfigurator.h:
+
+../../include/log4cxx/spi/configurator.h:
+
+../../include/log4cxx/file.h:

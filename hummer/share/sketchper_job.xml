@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<job>
+	<type>SIM</type>
+	<business>test</business>
+    <core>1</core>
+	<src></src>
+	<dst>
+		<des>PositivelistRedis</des>
+		<des>InvertedlistRedis</des>
+		<des>GrayscalamapRedis</des>
+	</dst>
+	<split>
+		<def ID="1" DATA="ip:10.0.0.179,port=9090,table=himport_product_label,region=-1017366146,sk=1683702006,ek=1684037915" />
+	</split>
+</job>
+

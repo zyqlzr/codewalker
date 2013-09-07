@@ -1,0 +1,258 @@
+2013/08/21 20:27:47,479 [0x7f8e362767e0] TRACE (hbasewrapper.cpp:13) CHbaseConnection-hbase session,host=199.155.122.90,port=9090,timeout=1000
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:70) -column size=21
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914003,column:p:cid,cell:50008898
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914003,column:p:createTime,cell:1318908453938
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914003,column:p:deletedFlag,cell:0
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914003,column:p:id,cell:1000914003
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914003,column:p:imageIds,cell:1657821005,1001500011,
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914003,column:p:location,cell:518000
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914003,column:p:mainImageId,cell:1657821005
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914003,column:p:modifyTime,cell:1370492509118
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914003,column:p:onsaleFlag,cell:1
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914003,column:p:price,cell:3900
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914003,column:p:productCategoryCode,cell:50008898
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914003,column:p:productTitle,cell:???????????????????????????????????????????????????????????? ????????????????????????
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914003,column:p:promototedService,cell:1,4,9,
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914003,column:p:propsName,cell:2915574:3267162;1625891:10004;20664:6384766;18073285:28105;31609:103423;2916845:27437175;31610:32347404;20672:29444;20673:29541;2917380:27414630;31611:115481;20665:29454;2917619:5206651;21541:111019;1627207:28332;1627207:28340;20509:28313;20509:28314;20509:28315;20509:28316;20509:28317
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914003,column:p:salesVolume,cell:0
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914003,column:p:sellerId,cell:141920
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914003,column:p:sellerName,cell:xiaoyou0002000
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914003,column:p:sex,cell:0
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914003,column:p:sourceProductId,cell:8924635750
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914003,column:p:url,cell:http://item.taobao.com/item.htm?id=8924635750&cm_cat=50008898&pm2=2
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914003,column:p:website,cell:taobao
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:70) -column size=21
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914018,column:p:cid,cell:50008901
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914018,column:p:createTime,cell:1318908453988
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914018,column:p:deletedFlag,cell:0
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914018,column:p:id,cell:1000914018
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914018,column:p:imageIds,cell:1001500037,1001500039,1001500041,1001500043,1001500045,
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914018,column:p:location,cell:430000
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914018,column:p:mainImageId,cell:1001500037
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914018,column:p:modifyTime,cell:1370962456640
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914018,column:p:onsaleFlag,cell:0
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914018,column:p:price,cell:18900
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914018,column:p:productCategoryCode,cell:50008901
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914018,column:p:productTitle,cell:?????????????????????????????????????????? ?????????S11036???
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914018,column:p:promototedService,cell:1,4,9,
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914018,column:p:propsName,cell:20000:26888305;1632501:28791156;31610:32347404;20672:3216779;20673:29447;2917380:27924515;31611:103453;20665:31755;2917619:148585987;2917596:28355;21541:111340;1627207:3232484;20509:28314;20509:28315;20509:28316;20509:28317
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914018,column:p:salesVolume,cell:15
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914018,column:p:sellerId,cell:4101862
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914018,column:p:sellerName,cell:kamozi
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914018,column:p:sex,cell:0
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914018,column:p:sourceProductId,cell:9255835082
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914018,column:p:url,cell:http://item.taobao.com/item.htm?id=9255835082&cm_cat=50031724
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914018,column:p:website,cell:taobao
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:70) -column size=21
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914047,column:p:cid,cell:50011123
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914047,column:p:createTime,cell:1318908454405
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914047,column:p:deletedFlag,cell:0
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914047,column:p:id,cell:1000914047
+2013/08/21 20:27:47,529 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914047,column:p:imageIds,cell:1001500106,1001500107,1001500108,1001500109,
+2013/08/21 20:27:47,530 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914047,column:p:location,cell:100000
+2013/08/21 20:27:47,530 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914047,column:p:mainImageId,cell:1001500106
+2013/08/21 20:27:47,530 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914047,column:p:modifyTime,cell:1375354006503
+2013/08/21 20:27:47,530 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914047,column:p:onsaleFlag,cell:0
+2013/08/21 20:27:47,530 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914047,column:p:price,cell:9900
+2013/08/21 20:27:47,530 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914047,column:p:productCategoryCode,cell:50011123
+2013/08/21 20:27:47,530 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914047,column:p:productTitle,cell:[???????????????]JackJones????????????????????????-??????????????????????????????
+2013/08/21 20:27:47,530 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914047,column:p:promototedService,cell:1,3,4,
+2013/08/21 20:27:47,530 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914047,column:p:propsName,cell:1627743:3267186;1632501:90604208;1627739:3267162;1627782:3267970;1627207:28338;1627766:3267728;20000:29493;2097794:3267959
+2013/08/21 20:27:47,530 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914047,column:p:salesVolume,cell:0
+2013/08/21 20:27:47,530 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914047,column:p:sellerId,cell:249034
+2013/08/21 20:27:47,530 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914047,column:p:sellerName,cell:???????????????
+2013/08/21 20:27:47,530 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914047,column:p:sex,cell:1
+2013/08/21 20:27:47,530 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914047,column:p:sourceProductId,cell:5953514583
+2013/08/21 20:27:47,530 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914047,column:p:url,cell:http://item.taobao.com/item.htm?id=5953514583&cm_cat=50011123
+2013/08/21 20:27:47,530 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:74) -Row:1000914047,column:p:website,cell:taobao
+2013/08/21 20:27:47,534 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914003,column:p:cid,cell:50008898
+2013/08/21 20:27:47,534 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914003,column:p:createTime,cell:1318908453938
+2013/08/21 20:27:47,534 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914003,column:p:deletedFlag,cell:0
+2013/08/21 20:27:47,534 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914003,column:p:id,cell:1000914003
+2013/08/21 20:27:47,534 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914003,column:p:imageIds,cell:1657821005,1001500011,
+2013/08/21 20:27:47,534 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914003,column:p:location,cell:518000
+2013/08/21 20:27:47,534 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914003,column:p:mainImageId,cell:1657821005
+2013/08/21 20:27:47,534 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914003,column:p:modifyTime,cell:1370492509118
+2013/08/21 20:27:47,534 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914003,column:p:onsaleFlag,cell:1
+2013/08/21 20:27:47,534 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914003,column:p:price,cell:3900
+2013/08/21 20:27:47,534 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914003,column:p:productCategoryCode,cell:50008898
+2013/08/21 20:27:47,534 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914003,column:p:productTitle,cell:???????????????????????????????????????????????????????????? ????????????????????????
+2013/08/21 20:27:47,534 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914003,column:p:promototedService,cell:1,4,9,
+2013/08/21 20:27:47,534 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914003,column:p:propsName,cell:2915574:3267162;1625891:10004;20664:6384766;18073285:28105;31609:103423;2916845:27437175;31610:32347404;20672:29444;20673:29541;2917380:27414630;31611:115481;20665:29454;2917619:5206651;21541:111019;1627207:28332;1627207:28340;20509:28313;20509:28314;20509:28315;20509:28316;20509:28317
+2013/08/21 20:27:47,534 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914003,column:p:salesVolume,cell:0
+2013/08/21 20:27:47,534 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914003,column:p:sellerId,cell:141920
+2013/08/21 20:27:47,534 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914003,column:p:sellerName,cell:xiaoyou0002000
+2013/08/21 20:27:47,534 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914003,column:p:sex,cell:0
+2013/08/21 20:27:47,535 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914003,column:p:sourceProductId,cell:8924635750
+2013/08/21 20:27:47,535 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914003,column:p:url,cell:http://item.taobao.com/item.htm?id=8924635750&cm_cat=50008898&pm2=2
+2013/08/21 20:27:47,535 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914003,column:p:website,cell:taobao
+2013/08/21 20:27:47,537 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914018,column:p:cid,cell:50008901
+2013/08/21 20:27:47,537 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914018,column:p:createTime,cell:1318908453988
+2013/08/21 20:27:47,537 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914018,column:p:deletedFlag,cell:0
+2013/08/21 20:27:47,537 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914018,column:p:id,cell:1000914018
+2013/08/21 20:27:47,537 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914018,column:p:imageIds,cell:1001500037,1001500039,1001500041,1001500043,1001500045,
+2013/08/21 20:27:47,537 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914018,column:p:location,cell:430000
+2013/08/21 20:27:47,537 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914018,column:p:mainImageId,cell:1001500037
+2013/08/21 20:27:47,537 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914018,column:p:modifyTime,cell:1370962456640
+2013/08/21 20:27:47,537 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914018,column:p:onsaleFlag,cell:0
+2013/08/21 20:27:47,537 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914018,column:p:price,cell:18900
+2013/08/21 20:27:47,537 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914018,column:p:productCategoryCode,cell:50008901
+2013/08/21 20:27:47,537 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914018,column:p:productTitle,cell:?????????????????????????????????????????? ?????????S11036???
+2013/08/21 20:27:47,537 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914018,column:p:promototedService,cell:1,4,9,
+2013/08/21 20:27:47,537 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914018,column:p:propsName,cell:20000:26888305;1632501:28791156;31610:32347404;20672:3216779;20673:29447;2917380:27924515;31611:103453;20665:31755;2917619:148585987;2917596:28355;21541:111340;1627207:3232484;20509:28314;20509:28315;20509:28316;20509:28317
+2013/08/21 20:27:47,537 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914018,column:p:salesVolume,cell:15
+2013/08/21 20:27:47,537 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914018,column:p:sellerId,cell:4101862
+2013/08/21 20:27:47,537 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914018,column:p:sellerName,cell:kamozi
+2013/08/21 20:27:47,537 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914018,column:p:sex,cell:0
+2013/08/21 20:27:47,537 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914018,column:p:sourceProductId,cell:9255835082
+2013/08/21 20:27:47,537 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914018,column:p:url,cell:http://item.taobao.com/item.htm?id=9255835082&cm_cat=50031724
+2013/08/21 20:27:47,537 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914018,column:p:website,cell:taobao
+2013/08/21 20:27:47,540 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914047,column:p:cid,cell:50011123
+2013/08/21 20:27:47,540 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914047,column:p:createTime,cell:1318908454405
+2013/08/21 20:27:47,540 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914047,column:p:deletedFlag,cell:0
+2013/08/21 20:27:47,540 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914047,column:p:id,cell:1000914047
+2013/08/21 20:27:47,540 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914047,column:p:imageIds,cell:1001500106,1001500107,1001500108,1001500109,
+2013/08/21 20:27:47,540 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914047,column:p:location,cell:100000
+2013/08/21 20:27:47,540 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914047,column:p:mainImageId,cell:1001500106
+2013/08/21 20:27:47,540 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914047,column:p:modifyTime,cell:1375354006503
+2013/08/21 20:27:47,540 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914047,column:p:onsaleFlag,cell:0
+2013/08/21 20:27:47,540 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914047,column:p:price,cell:9900
+2013/08/21 20:27:47,540 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914047,column:p:productCategoryCode,cell:50011123
+2013/08/21 20:27:47,540 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914047,column:p:productTitle,cell:[???????????????]JackJones????????????????????????-??????????????????????????????
+2013/08/21 20:27:47,540 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914047,column:p:promototedService,cell:1,3,4,
+2013/08/21 20:27:47,540 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914047,column:p:propsName,cell:1627743:3267186;1632501:90604208;1627739:3267162;1627782:3267970;1627207:28338;1627766:3267728;20000:29493;2097794:3267959
+2013/08/21 20:27:47,540 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914047,column:p:salesVolume,cell:0
+2013/08/21 20:27:47,540 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914047,column:p:sellerId,cell:249034
+2013/08/21 20:27:47,540 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914047,column:p:sellerName,cell:???????????????
+2013/08/21 20:27:47,540 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914047,column:p:sex,cell:1
+2013/08/21 20:27:47,540 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914047,column:p:sourceProductId,cell:5953514583
+2013/08/21 20:27:47,540 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914047,column:p:url,cell:http://item.taobao.com/item.htm?id=5953514583&cm_cat=50011123
+2013/08/21 20:27:47,540 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:95) -getRow Row:1000914047,column:p:website,cell:taobao
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914003,column:p:cid,cell:50008898
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914003,column:p:createTime,cell:1318908453938
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914003,column:p:deletedFlag,cell:0
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914003,column:p:id,cell:1000914003
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914003,column:p:imageIds,cell:1657821005,1001500011,
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914003,column:p:location,cell:518000
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914003,column:p:mainImageId,cell:1657821005
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914003,column:p:modifyTime,cell:1370492509118
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914003,column:p:onsaleFlag,cell:1
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914003,column:p:price,cell:3900
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914003,column:p:productCategoryCode,cell:50008898
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914003,column:p:productTitle,cell:???????????????????????????????????????????????????????????? ????????????????????????
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914003,column:p:promototedService,cell:1,4,9,
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914003,column:p:propsName,cell:2915574:3267162;1625891:10004;20664:6384766;18073285:28105;31609:103423;2916845:27437175;31610:32347404;20672:29444;20673:29541;2917380:27414630;31611:115481;20665:29454;2917619:5206651;21541:111019;1627207:28332;1627207:28340;20509:28313;20509:28314;20509:28315;20509:28316;20509:28317
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914003,column:p:salesVolume,cell:0
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914003,column:p:sellerId,cell:141920
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914003,column:p:sellerName,cell:xiaoyou0002000
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914003,column:p:sex,cell:0
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914003,column:p:sourceProductId,cell:8924635750
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914003,column:p:url,cell:http://item.taobao.com/item.htm?id=8924635750&cm_cat=50008898&pm2=2
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914003,column:p:website,cell:taobao
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914018,column:p:cid,cell:50008901
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914018,column:p:createTime,cell:1318908453988
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914018,column:p:deletedFlag,cell:0
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914018,column:p:id,cell:1000914018
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914018,column:p:imageIds,cell:1001500037,1001500039,1001500041,1001500043,1001500045,
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914018,column:p:location,cell:430000
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914018,column:p:mainImageId,cell:1001500037
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914018,column:p:modifyTime,cell:1370962456640
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914018,column:p:onsaleFlag,cell:0
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914018,column:p:price,cell:18900
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914018,column:p:productCategoryCode,cell:50008901
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914018,column:p:productTitle,cell:?????????????????????????????????????????? ?????????S11036???
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914018,column:p:promototedService,cell:1,4,9,
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914018,column:p:propsName,cell:20000:26888305;1632501:28791156;31610:32347404;20672:3216779;20673:29447;2917380:27924515;31611:103453;20665:31755;2917619:148585987;2917596:28355;21541:111340;1627207:3232484;20509:28314;20509:28315;20509:28316;20509:28317
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914018,column:p:salesVolume,cell:15
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914018,column:p:sellerId,cell:4101862
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914018,column:p:sellerName,cell:kamozi
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914018,column:p:sex,cell:0
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914018,column:p:sourceProductId,cell:9255835082
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914018,column:p:url,cell:http://item.taobao.com/item.htm?id=9255835082&cm_cat=50031724
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914018,column:p:website,cell:taobao
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914047,column:p:cid,cell:50011123
+2013/08/21 20:27:47,544 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914047,column:p:createTime,cell:1318908454405
+2013/08/21 20:27:47,545 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914047,column:p:deletedFlag,cell:0
+2013/08/21 20:27:47,545 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914047,column:p:id,cell:1000914047
+2013/08/21 20:27:47,545 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914047,column:p:imageIds,cell:1001500106,1001500107,1001500108,1001500109,
+2013/08/21 20:27:47,545 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914047,column:p:location,cell:100000
+2013/08/21 20:27:47,545 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914047,column:p:mainImageId,cell:1001500106
+2013/08/21 20:27:47,545 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914047,column:p:modifyTime,cell:1375354006503
+2013/08/21 20:27:47,545 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914047,column:p:onsaleFlag,cell:0
+2013/08/21 20:27:47,545 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914047,column:p:price,cell:9900
+2013/08/21 20:27:47,545 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914047,column:p:productCategoryCode,cell:50011123
+2013/08/21 20:27:47,545 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914047,column:p:productTitle,cell:[???????????????]JackJones????????????????????????-??????????????????????????????
+2013/08/21 20:27:47,545 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914047,column:p:promototedService,cell:1,3,4,
+2013/08/21 20:27:47,545 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914047,column:p:propsName,cell:1627743:3267186;1632501:90604208;1627739:3267162;1627782:3267970;1627207:28338;1627766:3267728;20000:29493;2097794:3267959
+2013/08/21 20:27:47,545 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914047,column:p:salesVolume,cell:0
+2013/08/21 20:27:47,545 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914047,column:p:sellerId,cell:249034
+2013/08/21 20:27:47,545 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914047,column:p:sellerName,cell:???????????????
+2013/08/21 20:27:47,545 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914047,column:p:sex,cell:1
+2013/08/21 20:27:47,545 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914047,column:p:sourceProductId,cell:5953514583
+2013/08/21 20:27:47,545 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914047,column:p:url,cell:http://item.taobao.com/item.htm?id=5953514583&cm_cat=50011123
+2013/08/21 20:27:47,545 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:108) -batchGetRow Row:1000914047,column:p:website,cell:taobao
+2013/08/21 20:27:47,547 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914003,column:p:cid,cell:50008898
+2013/08/21 20:27:47,549 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914018,column:p:cid,cell:50008901
+2013/08/21 20:27:47,551 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914047,column:p:cid,cell:50011123
+2013/08/21 20:27:47,553 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914003,column:p:createTime,cell:1318908453938
+2013/08/21 20:27:47,555 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914018,column:p:createTime,cell:1318908453988
+2013/08/21 20:27:47,558 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914047,column:p:createTime,cell:1318908454405
+2013/08/21 20:27:47,560 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914003,column:p:deletedFlag,cell:0
+2013/08/21 20:27:47,562 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914018,column:p:deletedFlag,cell:0
+2013/08/21 20:27:47,564 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914047,column:p:deletedFlag,cell:0
+2013/08/21 20:27:47,566 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914003,column:p:id,cell:1000914003
+2013/08/21 20:27:47,568 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914018,column:p:id,cell:1000914018
+2013/08/21 20:27:47,570 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914047,column:p:id,cell:1000914047
+2013/08/21 20:27:47,572 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914003,column:p:imageIds,cell:1657821005,1001500011,
+2013/08/21 20:27:47,574 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914018,column:p:imageIds,cell:1001500037,1001500039,1001500041,1001500043,1001500045,
+2013/08/21 20:27:47,576 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914047,column:p:imageIds,cell:1001500106,1001500107,1001500108,1001500109,
+2013/08/21 20:27:47,578 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914003,column:p:location,cell:518000
+2013/08/21 20:27:47,580 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914018,column:p:location,cell:430000
+2013/08/21 20:27:47,584 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914047,column:p:location,cell:100000
+2013/08/21 20:27:47,586 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914003,column:p:mainImageId,cell:1657821005
+2013/08/21 20:27:47,588 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914018,column:p:mainImageId,cell:1001500037
+2013/08/21 20:27:47,590 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914047,column:p:mainImageId,cell:1001500106
+2013/08/21 20:27:47,592 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914003,column:p:modifyTime,cell:1370492509118
+2013/08/21 20:27:47,594 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914018,column:p:modifyTime,cell:1370962456640
+2013/08/21 20:27:47,596 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914047,column:p:modifyTime,cell:1375354006503
+2013/08/21 20:27:47,598 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914003,column:p:onsaleFlag,cell:1
+2013/08/21 20:27:47,600 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914018,column:p:onsaleFlag,cell:0
+2013/08/21 20:27:47,603 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914047,column:p:onsaleFlag,cell:0
+2013/08/21 20:27:47,605 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914003,column:p:price,cell:3900
+2013/08/21 20:27:47,607 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914018,column:p:price,cell:18900
+2013/08/21 20:27:47,609 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914047,column:p:price,cell:9900
+2013/08/21 20:27:47,611 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914003,column:p:productCategoryCode,cell:50008898
+2013/08/21 20:27:47,613 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914018,column:p:productCategoryCode,cell:50008901
+2013/08/21 20:27:47,615 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914047,column:p:productCategoryCode,cell:50011123
+2013/08/21 20:27:47,617 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914003,column:p:productTitle,cell:???????????????????????????????????????????????????????????? ????????????????????????
+2013/08/21 20:27:47,619 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914018,column:p:productTitle,cell:?????????????????????????????????????????? ?????????S11036???
+2013/08/21 20:27:47,621 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914047,column:p:productTitle,cell:[???????????????]JackJones????????????????????????-??????????????????????????????
+2013/08/21 20:27:47,623 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914003,column:p:promototedService,cell:1,4,9,
+2013/08/21 20:27:47,625 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914018,column:p:promototedService,cell:1,4,9,
+2013/08/21 20:27:47,627 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914047,column:p:promototedService,cell:1,3,4,
+2013/08/21 20:27:47,629 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914003,column:p:propsName,cell:2915574:3267162;1625891:10004;20664:6384766;18073285:28105;31609:103423;2916845:27437175;31610:32347404;20672:29444;20673:29541;2917380:27414630;31611:115481;20665:29454;2917619:5206651;21541:111019;1627207:28332;1627207:28340;20509:28313;20509:28314;20509:28315;20509:28316;20509:28317
+2013/08/21 20:27:47,631 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914018,column:p:propsName,cell:20000:26888305;1632501:28791156;31610:32347404;20672:3216779;20673:29447;2917380:27924515;31611:103453;20665:31755;2917619:148585987;2917596:28355;21541:111340;1627207:3232484;20509:28314;20509:28315;20509:28316;20509:28317
+2013/08/21 20:27:47,633 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914047,column:p:propsName,cell:1627743:3267186;1632501:90604208;1627739:3267162;1627782:3267970;1627207:28338;1627766:3267728;20000:29493;2097794:3267959
+2013/08/21 20:27:47,635 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914003,column:p:salesVolume,cell:0
+2013/08/21 20:27:47,637 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914018,column:p:salesVolume,cell:15
+2013/08/21 20:27:47,639 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914047,column:p:salesVolume,cell:0
+2013/08/21 20:27:47,641 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914003,column:p:sellerId,cell:141920
+2013/08/21 20:27:47,643 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914018,column:p:sellerId,cell:4101862
+2013/08/21 20:27:47,646 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914047,column:p:sellerId,cell:249034
+2013/08/21 20:27:47,648 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914003,column:p:sellerName,cell:xiaoyou0002000
+2013/08/21 20:27:47,650 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914018,column:p:sellerName,cell:kamozi
+2013/08/21 20:27:47,652 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914047,column:p:sellerName,cell:???????????????
+2013/08/21 20:27:47,654 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914003,column:p:sex,cell:0
+2013/08/21 20:27:47,656 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914018,column:p:sex,cell:0
+2013/08/21 20:27:47,658 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914047,column:p:sex,cell:1
+2013/08/21 20:27:47,660 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914003,column:p:sourceProductId,cell:8924635750
+2013/08/21 20:27:47,662 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914018,column:p:sourceProductId,cell:9255835082
+2013/08/21 20:27:47,664 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914047,column:p:sourceProductId,cell:5953514583
+2013/08/21 20:27:47,666 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914003,column:p:url,cell:http://item.taobao.com/item.htm?id=8924635750&cm_cat=50008898&pm2=2
+2013/08/21 20:27:47,668 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914018,column:p:url,cell:http://item.taobao.com/item.htm?id=9255835082&cm_cat=50031724
+2013/08/21 20:27:47,670 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914047,column:p:url,cell:http://item.taobao.com/item.htm?id=5953514583&cm_cat=50011123
+2013/08/21 20:27:47,673 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914003,column:p:website,cell:taobao
+2013/08/21 20:27:47,675 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914018,column:p:website,cell:taobao
+2013/08/21 20:27:47,677 [0x7f8e362767e0] TRACE (hbasewrappertest.cpp:123) -Getcell,row:1000914047,column:p:website,cell:taobao
+2013/08/21 20:27:47,677 [0x7f8e362767e0] TRACE (test.cpp:72) CInstanceStat-P(PUBSUB):M(TEST) instance=hbase_wrapper_test err=0 corr=1 exec=1 total=0
+2013/08/21 20:27:47,677 [0x7f8e362767e0] TRACE (test.cpp:205) CTestManage-P(PUBSUB):M(TEST) err=0 corr=1 num=1 total=100

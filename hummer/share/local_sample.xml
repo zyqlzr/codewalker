@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<local>
+    <des>server1</des>
+    <zk>10.0.0.137:2181,10.0.0.138:2181,10.0.0.139:2181</zk>
+</local>

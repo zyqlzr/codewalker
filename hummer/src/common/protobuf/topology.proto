@@ -1,0 +1,47 @@
+
+package hummer;
+
+message queue_def
+{
+	optional string host = 1;
+	optional uint32 mqType = 2;
+	optional bool  useFlag = 3;
+	optional bool  ackFlag = 4;
+	optional string topic = 5;
+	optional string queue = 6;
+}
+
+message db_def
+{
+	optional uint32 dbtype = 1;
+	optional string dbhost = 2;
+	optional string dbusr = 3;
+	optional string dbpw = 4;
+	optional uint32 dbport = 5;
+	optional string dbname = 6;
+	repeated string tablename = 7;
+	optional string mysqlUnixSock = 8; 
+}
+
+message io_def
+{
+	required uint32 ioType = 1;
+	optional db_def ioDB = 2;
+	optional queue_def ioQ = 3;
+	optional string ioZmqhost = 4;
+}
+
+message node
+{
+	required string serverDes = 1;
+	required uint32 nodeType = 2;
+	repeated io_def inputs = 3;
+	repeated io_def outputs = 4;
+}
+
+message topology
+{
+	required uint64 topologyId = 1;
+	repeated node nodes = 2;	
+}
+

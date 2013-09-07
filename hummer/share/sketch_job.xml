@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<job>
+	<type>SIM</type>
+	<business>test</business>
+    <core>1</core>
+	<src></src>
+	<dst>
+		<des>PositivelistRedis</des>
+		<des>InvertedlistRedis</des>
+		<des>GrayscalamapRedis</des>
+	</dst>
+	<split>
+		<def ID="1" TYPE="PRE" DATA="table:import_xxxx" />
+	</split>
+</job>
+

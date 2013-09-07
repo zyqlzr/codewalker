@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ns>
+    <mcs>
+        <root path="/mcs" level="root" node="nor" />
+        <config path="/mcs/conf" level="leaf" node="nor"/>
+        <dataserver path="/mcs/dataserver" level="dir" node="nor" childlevel="leaf" childnode="tmp" />
+	<computeserver path="/mcs/computeserver" level="dir" node="nor" childlevel="leaf" childnode="tmp" />
+	<dbchecker path="/mcs/dbchecker" level="dir" node="nor" childlevel="leaf" childnode="tmp" />
+    </mcs>
+</ns>

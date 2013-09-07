@@ -1,0 +1,12 @@
+
+package hummer;
+
+message server
+{
+	required string ServerDes = 1;
+	repeated uint32 SupportBuisness = 2;
+	optional uint32 ServerCpuCore = 3;
+	optional uint32 portUp = 4;
+	optional uint32 portDown = 5;
+};
+

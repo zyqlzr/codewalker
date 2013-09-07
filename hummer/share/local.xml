@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<local>
+    <des>master</des>
+    <zk>192.168.3.161:2181</zk>
+</local>

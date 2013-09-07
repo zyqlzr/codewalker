@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<mcs>
+    <LocalPath>
+        <AbsolutePath>/home/github</AbsolutePath>
+        <RelativePath>./</RelativePath>
+    </LocalPath>
+    <ThriftHbase>
+        <Host1>10.0.0.179:9090</Host1>
+        <Host2>10.0.0.180:9090</Host2>
+        <Host3>10.0.0.181:9090</Host3>
+        <Host4>10.0.0.182:9090</Host4>
+    </ThriftHbase>
+    <PositivelistRedis>
+        <IP>192.168.3.161</IP>
+        <PORT>6378</PORT>
+        <TABLE>0</TABLE>
+    </PositivelistRedis>
+    <InvertedlistRedis>
+        <IP>192.168.3.161</IP>
+        <PORT>6378</PORT>
+        <TABLE>1</TABLE>
+    </InvertedlistRedis>
+    <GrayscalamapRedis>
+	    <IP>192.168.3.161</IP>
+        <PORT>6378</PORT>
+        <TABLE>2</TABLE>
+    </GrayscalamapRedis>
+</mcs>

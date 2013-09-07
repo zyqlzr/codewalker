@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<job>
+	<type>SIM</type>
+	<business>test</business>
+    <core>1</core>
+	<src></src>
+	<dst>
+		<des>LocalPath</des>
+	</dst>
+	<split>
+		<def ID="1" DATA="1000" />
+		<def ID="2" DATA="1000" />
+	</split>
+</job>
+

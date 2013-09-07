@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<worker>
+    <worker1>
+        <cpu_core>1</cpu_core>
+        <portdown>9000</portdown>
+        <portupper>10000</portupper>
+        <fdfsconf>fastdfs.cfg</fdfsconf>
+    </worker1>
+    <worker2>
+        <cpu_core>1</cpu_core>
+        <portdown>9000</portdown>
+        <portupper>10000</portupper>
+        <fdfsconf>fastdfs.cfg</fdfsconf>
+    </worker2>
+</worker>

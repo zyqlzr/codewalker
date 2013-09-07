@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<configureserver>
+    <parm timegap="5" workdir="./conf" zk="192.168.0.104:2181"/>
+    <hummer>
+    	<global ns="hummer" name="global_conf.xml" />
+    	<work ns="hummer" name="worker.xml" />
+    </hummer>
+    <submit_job>
+        <job ns="hummer"/>	
+    </submit_job>
+</configureserver>
